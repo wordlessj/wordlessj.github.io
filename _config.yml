@@ -1,0 +1,14 @@
+# Site settings
+title: Wordless J
+description: An iOS developer who loves UI design.
+baseurl: ""
+url: ""
+
+img_path: /assets/img
+appstore_elemu: https://itunes.apple.com/app/id1139670063
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
